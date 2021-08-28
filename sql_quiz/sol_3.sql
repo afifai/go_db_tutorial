@@ -1,1 +1,1 @@
-SELECT DISTINCT movie_status FROM movie;
+SELECT title, revenue FROM movie ORDER BY revenue DESC LIMIT 5;
