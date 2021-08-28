@@ -5,3 +5,4 @@ CREATE TABLE biodata (
     Lokasi text,
     PRIMARY KEY (id)
 );
+
